@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0F746B44-D108-425C-8924-4B0BFC91FFD1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>shouji</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4F0CE5A131042D161B8F47B4144D50A06437612A</key>
+		<string>https://github.com/Robin-cm/shouji.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>shouji.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4F0CE5A131042D161B8F47B4144D50A06437612A</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Robin-cm/shouji.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4F0CE5A131042D161B8F47B4144D50A06437612A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F0CE5A131042D161B8F47B4144D50A06437612A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>shouji</string>
+		</dict>
+	</array>
+</dict>
+</plist>
